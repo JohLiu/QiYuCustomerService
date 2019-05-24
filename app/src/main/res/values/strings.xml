@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">七鱼客服系统集成</string>
+    <string name="qiyu_custom">七鱼客服</string>
+    <string name="message">自定义消息</string>
+</resources>
